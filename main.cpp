@@ -1,7 +1,7 @@
 // Name       : Sabin Sijapati
 // Course     : Data Structures
 // Assignment : Final Project
-// Date       : 05/10/2026
+// Date       : 05-10-2026
 
 //   Driver for the Same Tree Final Project. Builds two binary
 //   search trees and reports whether they are equivalent -
